@@ -1,7 +1,7 @@
 const config = {
-	host: "xanderjakeq.id.blockstack",
-	instance_name: "Socialli",
-	instance_description: "Socialli.st is a socialli instance for everyone."
+	host: "kapowproject.id.blockstack",
+	instance_name: "Dpow",
+	instance_description: "Dpow Decentralized Social Media."
 }
 
 export default config;
