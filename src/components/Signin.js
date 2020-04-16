@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import styled from 'styled-components';
 
 import { handleSignIn } from '../actions';
-import logo from '../imgs/socialli_no_bg.png'
+import logo from '../imgs/dpow.png'
 
 import socialli_config from '../socialli_config';
 
@@ -14,7 +14,7 @@ const SignIn = (props) => {
         <div className = "section">
           <img src = {logo} alt = "logo" id = "logo"/>
           <div className = "heading">
-            <h1>Socialli</h1>
+            <h1>Dpow</h1>
 
             {
               window.location.href !== "https://socialli.st/" ?
